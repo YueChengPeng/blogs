@@ -2,13 +2,13 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Yuecheng Peng",
-    image: "https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo4LCJub3NlIjo0LCJtb3V0aCI6MTAsImV5ZXMiOjEyLCJleWVicm93cyI6MTEsImdsYXNzZXMiOjgsImhhaXIiOjI2LCJhY2Nlc3NvcmllcyI6OCwiZGV0YWlscyI6MCwiYmVhcmQiOjIsImZsaXAiOjAsImNvbG9yIjoicmdiYSgyNTUsIDAsIDAsIDApIiwic2hhcGUiOiJub25lIn0=", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "fabrication researcher",
     bio: "I fabricate everything with hands.",
     email: "yuechengpengcoco@gmail.com",
-    // linkedin: "morethanmin",
+    linkedin: "",
     github: "YueChengPeng",
-    // instagram: "",
+    instagram: "",
   },
   projects: [
     {
