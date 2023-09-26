@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Yuecheng Peng",
+    name: "Leo Peng",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "fabrication researcher",
     bio: "Fabricate Everything.",
@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `porfolio`,
+      href: "https://yuechengpeng.github.io/yuechengDesignGarden/",
     },
   ],
   // blog setting (required)
   blog: {
     title: "blogs",
-    description: "welcome to my blogs!",
+    description: "Welcome to Leo's blogs!",
   },
 
   // CONFIG configration (required)
